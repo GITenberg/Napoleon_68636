@@ -1,0 +1,27 @@
+_repo: Napoleon_68636
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Faure, Élie
+    gutenberg_agent_id: '54877'
+    url: http://www.gutenberg.org/2009/agents/54877
+description: ''
+gutenberg_issued: '2022-07-29'
+identifiers:
+  gutenberg: '68636'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k5684835v
+pgterms:marc905: 20210517144910faure
+pgterms:marc906: '1921'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: France :Georges Crès,1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Napoléon
+url: http://www.gutenberg.org/ebooks/68636
